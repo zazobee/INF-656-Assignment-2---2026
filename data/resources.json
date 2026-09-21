@@ -1,0 +1,42 @@
+[
+  {
+    "id": 0,
+    "name": "Library",
+    "location": "502 South Campus Drive",
+    "description": "Encourages intellectual curiosity, fosters scholarly exploration, and empowers knowledge creation.",
+    "category": "Building",
+    "contact": "785-628-4434"
+  },
+  {
+    "id": 1,
+    "name": "Writing Center",
+    "location": "600 Park Street",
+    "description": "Free, individual consultation about writing at any stage of the writing process.",
+    "category": "Group",
+    "contact": "785-628-4106"
+  },
+  {
+    "id": 2,
+    "name": "Career Services",
+    "location": "600 Park Street",
+    "description": "Helps illuminate the path toward the job of your dreams and the career of a lifetime.",
+    "category": "Group",
+    "contact": "785-628-4260"
+  },
+  {
+    "id": 3,
+    "name": "Student Health Center",
+    "location": "Fischli-Wills Center for Student Success Third Floor, Room 301",
+    "description": "Here to help you stay healhty and prepared to meet new challenges.",
+    "category": "Group",
+    "contact": "785-628-4401"
+  },
+  {
+    "id": 4,
+    "name": "Technology Help Desk",
+    "location": "Library",
+    "description": "Request workshops, one-on-one training, and lectures about technology, software, and apps on all of your devices.",
+    "category": "Group",
+    "contact": "785-628-5494"
+  }
+]
